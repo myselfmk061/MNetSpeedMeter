@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>speedometer.ico</ApplicationIcon>    <AssemblyOriginatorKeyFile>C:\Users\Avita_MK\Desktop\MNetSpeedMeter.cer</AssemblyOriginatorKeyFile>    <DelaySign>True</DelaySign>
+
+	  
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="speedometer.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="speedometer.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
