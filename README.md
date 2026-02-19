@@ -97,7 +97,7 @@
 
 ### Floating Speed Window
 
-<img src="https://via.placeholder.com/600x150/2C3E50/FFFFFF?text=Speed+Window+Screenshot" alt="Speed Window" width="600"/>
+<img width="1918" height="1079" alt="Screenshot 2026-02-19 172919" src="https://github.com/user-attachments/assets/78b83cb7-2cce-4a66-94bb-9549d6bde744" />
 
 *Always-on-top floating window showing real-time speeds*
 
@@ -105,7 +105,7 @@
 
 ### System Tray Integration
 
-<img src="https://via.placeholder.com/400x300/34495E/FFFFFF?text=System+Tray+Menu" alt="System Tray" width="400"/>
+<img width="1919" height="1079" alt="Screenshot 2026-02-19 173008" src="https://github.com/user-attachments/assets/2566f22d-e691-4e35-9171-dff30ba35b31" />
 
 *Right-click menu with all features at your fingertips*
 
@@ -113,15 +113,16 @@
 
 ### Settings Panel
 
-<img src="https://via.placeholder.com/500x400/16A085/FFFFFF?text=Settings+Window" alt="Settings" width="500"/>
+<img width="1919" height="1079" alt="Screenshot 2026-02-19 173038" src="https://github.com/user-attachments/assets/4bde17ae-68e8-4069-a13d-a10d07626ca1" />
 
 *Customize refresh rates, display options, and alerts*
+
 
 ---
 
 ### Statistics Dashboard
 
-<img src="https://via.placeholder.com/500x400/2980B9/FFFFFF?text=Statistics+View" alt="Statistics" width="500"/>
+<img width="1919" height="1061" alt="Screenshot 2026-02-19 173115" src="https://github.com/user-attachments/assets/81f11641-1c80-4ed6-a9f3-e983d9261f74" />
 
 *Detailed breakdown of your data usage and average speeds*
 
