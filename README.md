@@ -1,6 +1,7 @@
 <div align="center">
-
-# 🌐 MNetSpeedMeter
+<img src="https://raw.githubusercontent.com/myselfmk061/MNetSpeedMeter/refs/heads/main/speedometer.ico"/>
+  
+#     MNetSpeedMeter
 
 ### Real-Time Network Speed Monitor for Windows
 
@@ -13,12 +14,6 @@
 **Lightweight • Fast • Customizable • Free & Open Source**
 
 [📥 Download](#-download) • [✨ Features](#-features) • [📸 Screenshots](#-screenshots) • [🚀 Installation](#-installation) • [📖 Documentation](#-usage)
-
----
-
-![MNetSpeedMeter Banner](https://via.placeholder.com/800x200/0078D6/FFFFFF?text=MNetSpeedMeter+-+Real-Time+Network+Monitor)
-
-*Monitor your internet speed in real-time with a beautiful floating window and smart system tray integration*
 
 </div>
 
